@@ -17,5 +17,6 @@ npm install tailwindcss @tailwindcss/vite
 ```
 npm run dev
 ```
-<img width="1912" height="1918" alt="image" src="https://github.com/user-attachments/assets/d4b02215-0afe-4a8e-89ba-a610eabed4bc" />
+
+
 
